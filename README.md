@@ -71,9 +71,3 @@ Configured CloudTrail to log management events across multiple AWS services and 
 
 ---
 
-## Future Improvements
-
-- Add more detections such as policy updates, privilege escalations, and failed console logins.
-- Send alerts to a centralised SIEM or incident management tool like PagerDuty.
-- Expand the Terraform configuration with modules for improved reuse and clarity.
-
