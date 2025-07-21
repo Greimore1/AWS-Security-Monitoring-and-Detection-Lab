@@ -15,7 +15,7 @@ All infrastructure was provisioned using Terraform and automatically torn down t
 - **IAM**
 - **AWS CLI**
 - **Linux CLI (EndeavourOS)**
-- **PowerShell (Windows Server)**
+- **Bash (Linux Terminal)**
 
 ---
 
